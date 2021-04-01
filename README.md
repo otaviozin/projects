@@ -1,3 +1,3 @@
-Alguns projetos feitos em C++
+Alguns algoritmos feitos em C++
 
 Escritos em português(BR)
