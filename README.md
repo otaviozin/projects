@@ -1,2 +1,2 @@
-# projects
-Some projects that I liked. Written in portuguese
+Alguns projetos feitos em C++
+Escritos em português(BR)
